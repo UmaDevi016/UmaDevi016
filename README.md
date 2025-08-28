@@ -29,8 +29,8 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 📊 GitHub Stats  
-![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmaDeviCheruku&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmaDeviCheruku&layout=compact&theme=radical)  
+![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmaDevi016&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmaDevi016&layout=compact&theme=radical)  
 
 🌟 Featured Projects  
 📈 Stock Forecasting (LSTM)  
