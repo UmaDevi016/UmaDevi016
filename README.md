@@ -62,10 +62,7 @@ I love solving real-world problems using **data-driven solutions** and building 
 
 🌐 **Connect With Me**
 <p>
-  <a href="https://www.linkedin.com/in/umadevi-cheruku" target="_blank">
+  <a href="linkedin.com/in/imumadevi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:umadevi.cheruku@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
