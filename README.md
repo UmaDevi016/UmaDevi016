@@ -47,7 +47,6 @@ I love solving real-world problems using **data-driven solutions** and building 
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dremel-1E90FF?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
