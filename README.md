@@ -9,7 +9,7 @@ I love solving real-world problems using **data-driven solutions** and building 
 👯 Open to collaborating on **Machine Learning, GenAI & Data Analytics projects**  
 🤔 Looking for help with **exciting job opportunities in Data Science & AI**  
 💬 Ask me about **Python, ML, SQL, AI, LLMs, Visualization**  
-📫 Reach me at: **umadevi.cheruku@example.com**  
+📫 Reach me at: **linkedin.com/in/imumadevi**  
 ⚡ Fun fact: **I love blending statistics with AI to create smart insights!**  
 
 
